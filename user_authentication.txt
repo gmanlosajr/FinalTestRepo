@@ -1,1 +1,2 @@
 Simulate conflict on file user_authentication file -featured-admin-dashboard
+Simulate conflict on file user_authentication
